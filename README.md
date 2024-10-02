@@ -5,8 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manuelgomeznavarro" alt="manuelgomeznavarro" /></a> </p>
 
-- Actualmente estoy aprendiendo a utilizar **PHP y JavaScript, así como otros cursos que iré actualizando.**
-
+- Actualmente estoy aprendiendo a utilizar **PHP y JavaScript, lo que me está permitiendo ampliar mis habilidades en el desarrollo wweb. Soy una persona entusiasta, con ganas de seguir creciendo profesionalmente y explorando nuevas tecnologías. En mi proyecto final de curso, trabajaré con herramientas nuevas como MongoDB, Laravel y Tailwind, lo que me da la oportunidad de aplicar mis conocimientos enfrentar nuevos retos.
+- Siempre estoy en busca de oportunidades para aprender y mejorar, con la meta de convertirme en un desarrollador versátil y preparado para los constantes cambios en el mundo de la tecnología.
+  
 - 📫 Puedes contactarme en mi mail **mgn14@hotmail.es**
 
 <h3 align="left">Connect with me:</h3>
